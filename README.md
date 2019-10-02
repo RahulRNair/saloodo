@@ -5,7 +5,7 @@
 * npm install
 * npm start
 * cd src/server
-* node index.js(for backend node server)
+* node index.js(for backend node server, it should run in 8080 port)
 
 #####################################################
 
