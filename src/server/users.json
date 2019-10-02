@@ -1,0 +1,77 @@
+[{
+  "id":"1",
+  "username":"sachin",
+  "password":"password1234",
+  "user_type":"biker",
+  "name":"Sachin"
+},{
+  "id":"2",
+  "username":"john",
+  "password":"password1234",
+  "user_type":"manager",
+  "name":"John"
+},
+{
+  "id":"3",
+  "username":"jacob",
+  "password":"password1234",
+  "user_type":"biker",
+  "name":"Jacob"
+},
+{
+  "id":"4",
+  "username":"jack",
+  "password":"password1234",
+  "user_type":"biker",
+  "name":"Jack"
+},
+{
+  "id":"5",
+  "username":"bob",
+  "password":"password1234",
+  "user_type":"biker",
+  "name":"Bob"
+},
+{
+  "id":"6",
+  "username":"robert",
+  "password":"password1234",
+  "user_type":"biker",
+  "name":"Robert"
+},
+{
+  "id":"7",
+  "username":"rahul",
+  "password":"password1234",
+  "user_type":"biker",
+  "name":"Rahul"
+},
+{
+  "id":"8",
+  "username":"richa",
+  "password":"password1234",
+  "user_type":"biker",
+  "name":"Richa"
+},
+{
+  "id":"9",
+  "username":"jibin",
+  "password":"password1234",
+  "user_type":"biker",
+  "name":"Jibin"
+},
+{
+  "id":"10",
+  "username":"amar",
+  "password":"password1234",
+  "user_type":"biker",
+  "name":"Amar"
+},
+{
+  "id":"11",
+  "username":"arun",
+  "password":"password1234",
+  "user_type":"biker",
+  "name":"Arun"
+}
+]
