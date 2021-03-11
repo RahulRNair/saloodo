@@ -1,4 +1,4 @@
-# saloodo1
+# saloodo2
 ## How to Run the APP
 * clone the repo
 * cd saloodo
